@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Machine learning and data analysis
 
-- 💬 Ask me about Artificial intelligence,Machine learning , content writing, cloud computing and a lot of things !!
+- 💬 Ask me about Artificial intelligence,Machine learning , content writing, cloud computing, NLP and a lot of things !!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
