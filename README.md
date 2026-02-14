@@ -1,20 +1,102 @@
-<h1 align="center">Hi 👋, I'm Anisha Ray</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniray2908&label=Profile%20views&color=0e75b6&style=flat" alt="aniray2908" /> </p>
+<h1 align="center">Hi, I'm Anisha 👋</h1>
 
-- 🌱 I’m currently learning Machine learning and data analysis
-
-- 💬 Ask me about Artificial intelligence,Machine learning , content writing, cloud computing, NLP and a lot of things !!
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anisha-ray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anisha-ray" height="30" width="40" /></a>
-<a href="https://kaggle.com/anisharay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anisharay" height="30" width="40" /></a>
+<p align="center">
+Building Machine Learning systems from first principles.<br>
+Depth > certificates.
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniray2908&layout=Demo&theme=tokyonight)](https://github.com/aniray2908/github-readme-stats)
-<p>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniray2908&show_icons=true&locale=en&theme=tokyonight" alt="aniray2908" />
+---
+
+## 🚀 About Me
+
+I’m strengthening my Machine Learning foundations by combining:
+
+- 📐 Mathematical depth (Linear Algebra, Eigen, SVD, PCA)
+- 📊 Statistical learning theory
+- ⚙️ MLOps & production ML systems
+- 🗄️ Data engineering fundamentals
+
+Currently working through a structured 6-week ML foundations rebuild focused on conceptual clarity and engineered implementation.
+
+---
+## 💼 Professional Background
+
+I currently work as a Digital Workplace Engineer, focusing on systems reliability, automation, and infrastructure support.
+
+This role has strengthened my:
+
+- Systems thinking  
+- Debugging discipline  
+- Production awareness  
+- Process optimization mindset  
+
+Alongside my professional work, I am intentionally building strong Machine Learning foundations with a focus on mathematical clarity and engineered ML systems.
+
+---
+
+## 🧠 Current Focus
+
+- Implementing linear algebra derivations from scratch  
+- Understanding variance, regularization, and model selection  
+- Converting ML notebooks into reproducible pipelines  
+- Strengthening systems-level thinking  
+
+---
+
+## 📌 Featured Project
+
+### Silent Attrition Detector
+
+Designed and built a predictive system to identify early signals of employee disengagement before formal attrition occurs.
+
+Key aspects:
+
+- Feature engineering from behavioral and engagement indicators
+- Model training and evaluation for early risk detection
+- Interpretability-focused approach for actionable insights
+- Structured ML workflow from data processing to validation
+
+This project reflects applied machine learning aligned with real-world business problems.
+
+
+👉 **Repository:**  
+https://github.com/aniray2908/silent-attrition-detector
+
+---
+
+### ML Foundations Rebuild (In Progress)
+
+A structured deep dive into:
+
+- Linear algebra (Eigen, SVD, PCA)
+- Statistical learning theory
+- Reproducible ML systems
+
+Focused on strengthening mathematical depth behind applied ML work.
+
+---
+
+## 🛠 Technical Stack
+
+**Languages & Tools**
+
+Python • NumPy • scikit-learn • SQL • Git
+
+**Core Areas**
+
+Machine Learning • Linear Algebra • Statistical Learning • MLOps • Data Pipelines
+
+---
+
+## 📈 What I Value
+
+- Structured learning  
+- Mathematical clarity  
+- Reproducibility  
+- Systems thinking  
+
+---
+
+<p align="center">
+Currently in execution season.
 </p>
