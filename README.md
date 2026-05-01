@@ -1,102 +1,105 @@
 <h1 align="center">Hi, I'm Anisha 👋</h1>
-
 <p align="center">
-Building Machine Learning systems from first principles.<br>
-Depth > certificates.
+Data Scientist | ML Systems | NLP & LLM Engineering
+Bridging applied ML and deep NLP/LLM understanding.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m strengthening my Machine Learning foundations by combining:
+I'm a Data Scientist with a B.Tech in CS (Data Science specialization) 
+from VIT, currently transitioning back to a dedicated DS role after a 
+stint in enterprise IT operations at Schneider Electric.
 
-- 📐 Mathematical depth (Linear Algebra, Eigen, SVD, PCA)
-- 📊 Statistical learning theory
-- ⚙️ MLOps & production ML systems
-- 🗄️ Data engineering fundamentals
-
-Currently working through a structured 6-week ML foundations rebuild focused on conceptual clarity and engineered implementation.
+My work sits at the intersection of rigorous ML engineering and 
+real-world problem framing — I care about systems that are 
+interpretable, statistically grounded, and production-ready.
 
 ---
-## 💼 Professional Background
 
-I currently work as a Digital Workplace Engineer, focusing on systems reliability, automation, and infrastructure support.
+## 📌 Featured Projects
 
-This role has strengthened my:
+### 🛰 Satellite Environmental Risk Engine
+A geospatial exposure scoring pipeline that converts Sentinel-2 
+multispectral imagery into tiered environmental risk classifications 
+for mining assets.
 
-- Systems thinking  
-- Debugging discipline  
-- Production awareness  
-- Process optimization mindset  
+- NDVI-based vegetation suppression features across a 4-asset 
+  global portfolio (2019–2023)
+- Corporate Environmental Risk Index (CERI) via z-score compositing
+- Validated via 1,000 bootstrap simulations and LOOCV
+- Deterministic risk tier outputs at scale
 
-Alongside my professional work, I am intentionally building strong Machine Learning foundations with a focus on mathematical clarity and engineered ML systems.
+👉 [Repository](https://github.com/aniray2908/satellite-risk-engine)
+
+---
+
+### 🔍 Silent Attrition Detector
+A modular multi-signal attrition risk detection system for early 
+identification of employee disengagement.
+
+- CatBoost + neural tabular network for structured HR modeling
+- Behavioral communication drift analysis
+- Neural meta-fusion layer for calibrated risk probabilities
+- SHAP-based explainability, fairness auditing, threshold optimization
+
+👉 [Repository](https://github.com/aniray2908/silent-attrition-detector)
 
 ---
 
 ## 🧠 Current Focus
 
-- Implementing linear algebra derivations from scratch  
-- Understanding variance, regularization, and model selection  
-- Converting ML notebooks into reproducible pipelines  
-- Strengthening systems-level thinking  
+Working through a structured NLP → LLM roadmap covering:
+
+- **NLP Fundamentals** — tokenisation, embeddings (Word2Vec, GloVe), 
+  language modelling, text classification
+- **Transformer Deep Dive** — implementing attention, positional 
+  encoding, and full encoder blocks from scratch in PyTorch
+- **LLM Internals** — decoder-only architecture, LoRA fine-tuning, 
+  RAG pipelines
+- **Capstone** — building a mini GPT from scratch (nanoGPT approach)
+
+Goal: move from *using* LLMs to *understanding and fine-tuning* them.
 
 ---
 
-## 📌 Featured Project
+## 💼 Background
 
-### Silent Attrition Detector
+**Schneider Electric** | Aug 2024 – Present
+Graduate Engineer Trainee → Digital Workplace Engineer
+Enterprise-scale endpoint operations across 100,000+ devices across 
+50 global sites. Strengthened production awareness, systems thinking, 
+and cross-functional execution.
 
-Designed and built a predictive system to identify early signals of employee disengagement before formal attrition occurs.
+**Samsung Prism** | R&D Intern | Apr–Sep 2023
+ML model for document vs. scene image classification.
 
-Key aspects:
-
-- Feature engineering from behavioral and engagement indicators
-- Model training and evaluation for early risk detection
-- Interpretability-focused approach for actionable insights
-- Structured ML workflow from data processing to validation
-
-This project reflects applied machine learning aligned with real-world business problems.
-
-
-👉 **Repository:**  
-https://github.com/aniray2908/silent-attrition-detector
+**PepsiCo GBS** | Data Science Intern | May–Jul 2023
+Time series forecasting models integrated into operational dashboards.
 
 ---
 
-### ML Foundations Rebuild (In Progress)
+## 📄 Publication
 
-A structured deep dive into:
-
-- Linear algebra (Eigen, SVD, PCA)
-- Statistical learning theory
-- Reproducible ML systems
-
-Focused on strengthening mathematical depth behind applied ML work.
+**"Milestone-Gated, Donor-Governed Crowdfunding: Security Properties 
+and the Price of Safety."**
+ICDTDE 2025, Jordan — smart contract protocol with on-chain donor 
+governance, evaluated via static analysis and adversarial fuzzing.
 
 ---
 
 ## 🛠 Technical Stack
 
-**Languages & Tools**
+**ML & Data:** Python, Scikit-learn, PyTorch, CatBoost, LightGBM, 
+SHAP, TensorFlow, Keras, NumPy, Pandas, Dash, Plotly
 
-Python • NumPy • scikit-learn • SQL • Git
+**Geospatial:** Sentinel-2, NDVI, geospatial risk scoring
 
-**Core Areas**
-
-Machine Learning • Linear Algebra • Statistical Learning • MLOps • Data Pipelines
-
----
-
-## 📈 What I Value
-
-- Structured learning  
-- Mathematical clarity  
-- Reproducibility  
-- Systems thinking  
+**Infrastructure:** SQL, MongoDB, Docker, Git, GCP, Azure
 
 ---
 
 <p align="center">
-Currently in execution season.
+Open to Data Scientist and ML Engineer roles. Based in Bangalore.
 </p>
